@@ -13,5 +13,5 @@ return [
     'static_domain'     => '',
     'upload_domain'     => '',
     'version_key'       => 'v',
-    'version'           => 1,
+    'version'           => 1.0,
 ];
